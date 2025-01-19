@@ -1,0 +1,11 @@
+                   precision    recall  f1-score   support
+
+           Bombay       0.78      0.95      0.86        22
+British Shorthair       0.28      0.45      0.34        11
+     Egyptian Mau       0.69      0.69      0.69        16
+       Maine Coon       0.69      0.61      0.65        18
+     Russian Blue       0.65      0.41      0.50        27
+
+         accuracy                           0.63        94
+        macro avg       0.62      0.62      0.61        94
+     weighted avg       0.65      0.63      0.63        94
